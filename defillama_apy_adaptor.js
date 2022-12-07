@@ -117,7 +117,7 @@ const getApy = async () => {
       return {
         pool: hypervisor.id,
         chain: utils.formatChain(chain),
-        project: 'gamma',
+        project: 'visor',
         symbol: `${hypervisor.pool.token0.symbol}-${hypervisor.pool.token1.symbol}`,
         tvlUsd: averageTVL || 0,
         apyBase: apr || 0,

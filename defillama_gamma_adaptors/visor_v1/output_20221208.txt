@@ -1,0 +1,1354 @@
+[
+    {
+        "pool": "0x8cd73cb1e1fa35628e36b8c543c5f825cd4e77f1",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "TCR-WETH",
+        "tvlUsd": 10599381.841120476,
+        "apyBase": 91.80433125019667,
+        "underlyingTokens": [
+            "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x92ccaa1b3dccccae7d68fff50e6e47a747233e62",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-VISR",
+        "tvlUsd": 6054147.365983312,
+        "apyBase": 0.07376215138218474,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xf938424f7210f31df2aee3011291b658f872e91e"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x97491b65c9c8e8754b5c55ed208ff490b2ee6190",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WBTC-WETH",
+        "tvlUsd": 2122039.2826642734,
+        "apyBase": 0.12629088376718342,
+        "underlyingTokens": [
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x716bd8a7f8a44b010969a1825ae5658e7a18630d",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "USDC-WETH",
+        "tvlUsd": 1369928.435009156,
+        "apyBase": 0.35025989647306827,
+        "underlyingTokens": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x0ec4a47065bf52e1874d2491d4deeed3c638c75f",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "PSDN-WETH",
+        "tvlUsd": 876845.8100419503,
+        "apyBase": 0.5123587285752371,
+        "underlyingTokens": [
+            "0xa5b947687163fe88c3e6af5b17ae69896f4abccf",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x704ececabe7855996cede5cefa660eccd3c01dbe",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "FEI-USDC",
+        "tvlUsd": 728310.4899388499,
+        "apyBase": 0.17205340199032015,
+        "underlyingTokens": [
+            "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xf19f91d7889668a533f14d076adc187be781a458",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-BABL",
+        "tvlUsd": 708563.179624297,
+        "apyBase": 0.06720826400192582,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xf4dc48d260c93ad6a96c5ce563e70ca578987c74"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x33412fef1af035d6dba8b2f9b33b022e4c31dbb4",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "GAMMA-WETH",
+        "tvlUsd": 699364.146705542,
+        "apyBase": 0.057554944256264944,
+        "underlyingTokens": [
+            "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x586880065937a0b1b9541723619b75739df8ef13",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "LQTY-WETH",
+        "tvlUsd": 697277.5839737402,
+        "apyBase": 0.3510191643598967,
+        "underlyingTokens": [
+            "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xc92ff322c8a18e38b46393dbcc8a7c5691586497",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-TRU",
+        "tvlUsd": 673943.7514308308,
+        "apyBase": 0.9163649360584913,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xf65b5c5104c4fafd4b709d9d60a185eae063276c"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x407e99b20d61f245426031df872966953909e9d3",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "LINK-WETH",
+        "tvlUsd": 667043.8688947373,
+        "apyBase": 0.3074379956699805,
+        "underlyingTokens": [
+            "0x514910771af9ca656af840dff83e8264ecf986ca",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x65bc5c6a2630a87c2b494f36148e338dd76c054f",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "OHM-WETH",
+        "tvlUsd": 654427.9436067534,
+        "apyBase": 1.9836633988607904,
+        "underlyingTokens": [
+            "0x383518188c0c6d7730d91b2c03a03c837814a899",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0xaed05fdd471a4eecee48b34d38c59cc76681a6c8",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "USDC-DAI",
+        "tvlUsd": 620603.3568530986,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x6e67bb258b6485b688cbb526c868d4428b634cf1",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-CRV",
+        "tvlUsd": 531408.5166499946,
+        "apyBase": 0.9181968920814311,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xd533a949740bb3306d119cc777fa900ba034cd52"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x9a98bffabc0abf291d6811c034e239e916bbcec0",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-USDT",
+        "tvlUsd": 480292.98806082277,
+        "apyBase": 0.24045284104152678,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x09b8d86c6275e707155cdb5963cf611a432ccb21",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "MATIC-WETH",
+        "tvlUsd": 460044.78372320713,
+        "apyBase": 0.39515092451739464,
+        "underlyingTokens": [
+            "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x18d3284d9eff64fc97b64ab2b871738e684aa151",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-GTC",
+        "tvlUsd": 390121.90847271937,
+        "apyBase": 0.4837614458326499,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x33682bfc1d94480a0e3de0a565180b182b71d485",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "PERP-WETH",
+        "tvlUsd": 383296.96228044794,
+        "apyBase": 0.32550063525107237,
+        "underlyingTokens": [
+            "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x5e6c481de496554b66657dd1ca1f70c61cf11660",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-BABL",
+        "tvlUsd": 369294.2891837937,
+        "apyBase": 0.022484710698261377,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xf4dc48d260c93ad6a96c5ce563e70ca578987c74"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x24fe0b138d9b10a7f0502e213212ee6648926ecb",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "rETH-THETA-WETH",
+        "tvlUsd": 351474.97407643974,
+        "apyBase": 0.00045035618308640103,
+        "underlyingTokens": [
+            "0x25751853eab4d0eb3652b5eb6ecb102a2789644b",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xa625ea468a4c70f13f9a756ffac3d0d250a5c276",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "RAW-WETH",
+        "tvlUsd": 326990.28142408596,
+        "apyBase": 0.04443022869137416,
+        "underlyingTokens": [
+            "0xb41f289d699c5e79a51cb29595c203cfae85f32a",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x5230371a6d5311b1d7dd30c0f5474c2ef0a24661",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-ENS",
+        "tvlUsd": 325254.7627495754,
+        "apyBase": 3.881050521396915,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x4d7f0f7395dd58da2e6680453a0d0b4b19d0c832",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-WRLD",
+        "tvlUsd": 279843.8041540169,
+        "apyBase": 0.9164112717226087,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x8b6e73f17b613ce189be413f5dc435139f5fd45c",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-WETH",
+        "tvlUsd": 256020.6361954345,
+        "apyBase": 0.38588688232033314,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x6c8116abe5c5f2c39553c6f4217840e71462539c",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "DAI-WETH",
+        "tvlUsd": 255837.2201786463,
+        "apyBase": 0.18748636567346688,
+        "underlyingTokens": [
+            "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xc86b1e7fa86834cac1468937cdd53ba3ccbc1153",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "FLOAT-WETH",
+        "tvlUsd": 246947.53391595776,
+        "apyBase": 0.04488902776310149,
+        "underlyingTokens": [
+            "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xd930ab15c8078ebae4ac8da1098a81583603f7ce",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "LQTY-WETH",
+        "tvlUsd": 241810.06199148967,
+        "apyBase": 0.9208317579709154,
+        "underlyingTokens": [
+            "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xe065ff6a26f286ddb0e823920caaecd1fcd57ba1",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WETH-THX",
+        "tvlUsd": 241291.90852289213,
+        "apyBase": 0.04243513597480368,
+        "underlyingTokens": [
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "0xe632ea2ef2cfd8fc4a2731c76f99078aef6a4b31"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xb7e9beef9cc9f3047db8b502611f19b5fff75b1a",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-THX",
+        "tvlUsd": 229107.6685208803,
+        "apyBase": 0.03177344526032524,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xed17209ab7f9224e29cc9894fa14a011f37b6115",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "WETH-USDC",
+        "tvlUsd": 220068.41590034266,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x4200000000000000000000000000000000000006",
+            "0x7f5c764cbc14f9669b88837ca1490cca17c31607"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xbff4a47a0f77637f735e3a0ce10ff2bf9be12e89",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "RARE-WETH",
+        "tvlUsd": 204329.53851869816,
+        "apyBase": 0.892222118124636,
+        "underlyingTokens": [
+            "0xba5bde662c17e2adff1075610382b9b691296350",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xa8076ae31e4b6c64d07b1ed27889924a962a70d3",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "rETH-WETH",
+        "tvlUsd": 203153.78784924914,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0xae78736cd615f374d3085123a210448e74fc6393",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x14e42871d90282ec0439f01347178d6331fc1873",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "WETH-DAI",
+        "tvlUsd": 185232.82224834018,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x4200000000000000000000000000000000000006",
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xd8dbdb77305898365d7ba6dd438f2663f7d4e409",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "UNI-WETH",
+        "tvlUsd": 183625.51394196434,
+        "apyBase": 0.19473781455944378,
+        "underlyingTokens": [
+            "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xeaa629224b3ab2b42b42fddb53a1b51351acbe4f",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "H2O-WETH",
+        "tvlUsd": 159104.97171674293,
+        "apyBase": 0.01613878811511098,
+        "underlyingTokens": [
+            "0x0642026e7f0b6ccac5925b4e7fa61384250e1701",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x0624eb9691d99178d0d2bd76c72f1dbb4db05286",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "AXS-WETH",
+        "tvlUsd": 132891.74841661667,
+        "apyBase": 2.7932273739078024,
+        "underlyingTokens": [
+            "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x7d89593e1f327f06579faef15e88aadfae51713a",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "H2O-OCEAN",
+        "tvlUsd": 132567.3109322866,
+        "apyBase": 0.010571721889396873,
+        "underlyingTokens": [
+            "0x0642026e7f0b6ccac5925b4e7fa61384250e1701",
+            "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x53a4512bbe5083695d8e890789fe1cf6f5686d52",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "FORTH-WETH",
+        "tvlUsd": 125992.54637596829,
+        "apyBase": 0.3196624138605144,
+        "underlyingTokens": [
+            "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xe1ae05518a67ebe7e1e08e3b22d905d6c05b6c0f",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "H2O-USDC",
+        "tvlUsd": 116600.1095241706,
+        "apyBase": 0.004985552873094278,
+        "underlyingTokens": [
+            "0x0642026e7f0b6ccac5925b4e7fa61384250e1701",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xc14e7ec60699a39cfd59bae06168afc2c76f32ac",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "MTA-WETH",
+        "tvlUsd": 111223.20900398813,
+        "apyBase": 0.182137138342274,
+        "underlyingTokens": [
+            "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x9196617815d95853945cd8f5e4e0bb88fdfe0281",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "OCEAN-PSDN",
+        "tvlUsd": 92067.01899292337,
+        "apyBase": 0.02681285771593291,
+        "underlyingTokens": [
+            "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+            "0xa5b947687163fe88c3e6af5b17ae69896f4abccf"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x0d3fbebfdd96940952618598a5f012de7240c552",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "HEX-WETH",
+        "tvlUsd": 82922.64125513345,
+        "apyBase": 2.5182482088000233,
+        "underlyingTokens": [
+            "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x35abccd8e577607275647edab08c537fa32cc65e",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WBTC-WETH",
+        "tvlUsd": 76161.12139481372,
+        "apyBase": 0.34286801646779747,
+        "underlyingTokens": [
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xa9782a2c9c3fb83937f14cdfac9a6d23946c9255",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "USDC-WETH",
+        "tvlUsd": 75312.4016400211,
+        "apyBase": 0.44185187320426483,
+        "underlyingTokens": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x0f548d7ad1a0cb30d1872b8c18894484d76e1569",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WBTC-WETH",
+        "tvlUsd": 62316.2674892596,
+        "apyBase": 0.23559766312162445,
+        "underlyingTokens": [
+            "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xf6eeca73646ea6a5c878814e6508e87facc7927c",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "GAMMA-WETH",
+        "tvlUsd": 60072.00696325533,
+        "apyBase": 0.00937669130329007,
+        "underlyingTokens": [
+            "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xf0a9f5c64f80fa390a46b298791dab9e2bb29bca",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "BUMP-WETH",
+        "tvlUsd": 58491.312463747796,
+        "apyBase": 0.5779656492632923,
+        "underlyingTokens": [
+            "0x785c34312dfa6b74f6f1829f79ade39042222168",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x23c85dca3d19b31f14aeea19beac32c2cb2ffc72",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "ETH2x-FLI-WETH",
+        "tvlUsd": 57501.28691155743,
+        "apyBase": 0.25326324393715594,
+        "underlyingTokens": [
+            "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x717a3276bd6f9e2f0ae447e0ffb45d0fa1c2dc57",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "agEUR-USDC",
+        "tvlUsd": 54667.90546520364,
+        "apyBase": 0.009095399459205789,
+        "underlyingTokens": [
+            "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x8cacde53d63fda23a8f802653eeef931c8528cac",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-FRAX",
+        "tvlUsd": 48848.00907947709,
+        "apyBase": 0.09429099163293395,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x4564a37c88e3b13d3a0c08832dcf88278997e6fe",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "MKR-WETH",
+        "tvlUsd": 40902.68970233119,
+        "apyBase": 0.28191196807570584,
+        "underlyingTokens": [
+            "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xbb9b86a75ca3115caab045e2af17b0bba483acbc",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "AAVE-WETH",
+        "tvlUsd": 39126.66149936167,
+        "apyBase": 0.29614556617854526,
+        "underlyingTokens": [
+            "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x7f92463e24b2ea1f7267aceed3ad68f7a956d2d8",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "MVI-WETH",
+        "tvlUsd": 31955.4978024032,
+        "apyBase": 0.2872567895800907,
+        "underlyingTokens": [
+            "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xc604b42b9bf109590effe16a68a13fc55dc58425",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-WETH",
+        "tvlUsd": 31886.327357960425,
+        "apyBase": 0.9830481873144588,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xb666bfdb553a1aff4042c1e4f39e43852ba9731d",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "MM-WETH",
+        "tvlUsd": 29922.19617550831,
+        "apyBase": 1.4208029041737513,
+        "underlyingTokens": [
+            "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xfae023f592581915ebeac6eea07714107508b885",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "USDC-sUSD",
+        "tvlUsd": 17334.920734573963,
+        "apyBase": 0.09928082366330762,
+        "underlyingTokens": [
+            "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xf874d4957861e193aec9937223062679c14f9aca",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WMATIC-WETH",
+        "tvlUsd": 17045.061232186275,
+        "apyBase": 0.669117409223826,
+        "underlyingTokens": [
+            "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xde8edc067b079b3965fde36d11aa834287f9b663",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "LINK-WETH",
+        "tvlUsd": 14401.978796660256,
+        "apyBase": 0.21035587450757848,
+        "underlyingTokens": [
+            "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x3cca05926af387f1ab4cd45ce8975d31f0469927",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WBTC-renBTC",
+        "tvlUsd": 7013.5762789089495,
+        "apyBase": 0.060590030662121944,
+        "underlyingTokens": [
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xf5bfa20f4a77933fee0c7bb7f39e7642a070d599",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WMATIC-USDC",
+        "tvlUsd": 6912.728789156688,
+        "apyBase": 0.2836496002081358,
+        "underlyingTokens": [
+            "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x20b520adc4d068974105104ed955a4dbadfa4ea6",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "WETH-USDC",
+        "tvlUsd": 6158.3493262282445,
+        "apyBase": 0.0962948172203496,
+        "underlyingTokens": [
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x0407c810546f1dc007f01a80e65983072d5c6dfa",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "COMP-WETH",
+        "tvlUsd": 5267.959386711588,
+        "apyBase": 0.1897875089709191,
+        "underlyingTokens": [
+            "0xc00e94cb662c3520282e6f5717214004a7f26888",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xcb27d08bf34b8076dc82ce33692ead6b38e2d280",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-wtPOKT",
+        "tvlUsd": 5090.085158696784,
+        "apyBase": 0.14755588215062518,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x301595f6fd5f69fad7a488dacb8971e7c0c2f559"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x6b3d98406779ddca311e6c43553773207b506fa6",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-DAI",
+        "tvlUsd": 4091.0245835037986,
+        "apyBase": 0.017520524981784007,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x2bc7243b8b9d50a2acfef05adac78b44e1fa0b47",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "sUSD-DAI",
+        "tvlUsd": 3608.627674420013,
+        "apyBase": 0.08690132295574862,
+        "underlyingTokens": [
+            "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xb60a9bb5a35387bdb83764cb8c74359d06194533",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "USDC-USDT",
+        "tvlUsd": 2761.087120581693,
+        "apyBase": 0.03606476262549754,
+        "underlyingTokens": [
+            "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x2e5565be8a3ed2222351dc221279317598fa3ffa",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "USDC-DAI",
+        "tvlUsd": 2566.411501561145,
+        "apyBase": 0.029496897122429342,
+        "underlyingTokens": [
+            "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xd08b593eb3460b7aa5ce76ffb0a3c5c938fd89b8",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WBTC-USDC",
+        "tvlUsd": 1538.6602587027892,
+        "apyBase": 0.34916160346674807,
+        "underlyingTokens": [
+            "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xfa4bf5c7d995642f908318275e816dc023924ad7",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WETH-USDT",
+        "tvlUsd": 1536.695961801363,
+        "apyBase": 0.5785269374267252,
+        "underlyingTokens": [
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+            "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xe8f20fd90161de1d5b4cf7e2b5d92932ca06d5f4",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "agEUR-WETH",
+        "tvlUsd": 1213.2256195070472,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x3fe6f25da67dc6ad2a5117a691f9951ea14d6f15",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WMATIC-CRV",
+        "tvlUsd": 633.2927056893468,
+        "apyBase": 0.38426402059419323,
+        "underlyingTokens": [
+            "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            "0x172370d5cd63279efa6d502dab29171933a610af"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xa29193af0816d43cf44a3745755bf5f5e2f4f170",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-agEUR",
+        "tvlUsd": 514.3162258473208,
+        "apyBase": 0.03138012607102605,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x65512de8919baf31cc9c8f067cdca308112b9d1f",
+        "chain": "Optimism",
+        "project": "visor",
+        "symbol": "sUSD-USDT",
+        "tvlUsd": 497.83361375447186,
+        "apyBase": 0.14091706725025865,
+        "underlyingTokens": [
+            "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+            "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xb60f4ac1514be672b2ec35a023f4c89373d3a4ef",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "WBTC-USDC",
+        "tvlUsd": 304.35223441626846,
+        "apyBase": 0.2434588798135701,
+        "underlyingTokens": [
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xd7b990543ea8e9bd0b9ae2deb9c52c4d0e660431",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "DAI-USDC",
+        "tvlUsd": 140.04977756598652,
+        "apyBase": 0.0008327520970126995,
+        "underlyingTokens": [
+            "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0xf874d4957861e193aec9937223062679c14f9aca",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "USDC-WETH",
+        "tvlUsd": 115.91779485328489,
+        "apyBase": 0.04314159238588426,
+        "underlyingTokens": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x88ae17af988e733943d728df745c95ce8393f238",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "WETH-GMX",
+        "tvlUsd": 68.36993839903934,
+        "apyBase": 0.28656041352314865,
+        "underlyingTokens": [
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xed354a827d99992d9cdada809449985cb73b8bb1",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "OHM-FDT",
+        "tvlUsd": 35.99740056055563,
+        "apyBase": 0.15538390395267285,
+        "underlyingTokens": [
+            "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+            "0xed1480d12be41d92f36f5f7bdd88212e381a3677"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x8d6d90f2e7a20d5ec355287c37e3f20de50b8349",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-UST",
+        "tvlUsd": 31.739267181268698,
+        "apyBase": 0.021212302236984806,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x692597b009d13c4049a947cab2239b7d6517875f"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x93acb12ae1effb3426220c20c6d408eeaae59d72",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "OHM-FDT",
+        "tvlUsd": 25.41157612652953,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+            "0xed1480d12be41d92f36f5f7bdd88212e381a3677"
+        ],
+        "poolMeta": "1 univ3 pool"
+    },
+    {
+        "pool": "0x6002d7714e8038f2058e8162b0b86c0b19c31908",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WMATIC-WBTC",
+        "tvlUsd": 24.66102890271966,
+        "apyBase": 0.10914001209440533,
+        "underlyingTokens": [
+            "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xc9a3ee434d877294b24816efb4b2ee8a7a3ce187",
+        "chain": "Celo",
+        "project": "visor",
+        "symbol": "CELO-WETH",
+        "tvlUsd": 22.71850647115279,
+        "apyBase": 0.023308090405160388,
+        "underlyingTokens": [
+            "0x471ece3750da237f93b8e339c536989b8978a438",
+            "0x66803fb87abd4aac3cbb3fad7c3aa01f6f3fb207"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x145d55ae4848f9782efcac785a655e3e5dce1bcd",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "agEUR-USDC",
+        "tvlUsd": 20.76972297667807,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+            "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x4f7997158d66ca31d9734674fdcd12cc74e503a7",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "USDC-USDT",
+        "tvlUsd": 20.00182828969407,
+        "apyBase": 0.00030756442005228497,
+        "underlyingTokens": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xd4bcfc023736db5617e5638748e127581d5929bd",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WETH-UNI",
+        "tvlUsd": 13.705505167303066,
+        "apyBase": 0.2532264553546132,
+        "underlyingTokens": [
+            "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+            "0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xe64c62244c48f9d0aa70d411432b825e2f8b05b0",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WMATIC-AAVE",
+        "tvlUsd": 10.249597753353457,
+        "apyBase": 0.1896514878740859,
+        "underlyingTokens": [
+            "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xd1c24a1eaf4b6978ea4152634be62e947dfca142",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "WMATIC-USDT",
+        "tvlUsd": 7.587116297431701,
+        "apyBase": 0.3523871233246278,
+        "underlyingTokens": [
+            "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+            "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x8a6df1c1ea92d2583f7d58fefc9885fceff2d808",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-miMATIC",
+        "tvlUsd": 6.120979980337068,
+        "apyBase": 0.03333271718240665,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0xa3fa99a148fa48d14ed51d610c367c61876997f1"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0xfb3a24c0f289e695ceb87b32fc18a2b8bd896167",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "WBTC-WETH",
+        "tvlUsd": 4.869438841248036,
+        "apyBase": 4.14976240730774,
+        "underlyingTokens": [
+            "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x3f848eefd234da0b1b98ea876fe2ee86a10773ca",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "DAI-USDC",
+        "tvlUsd": 3.9728109286465796,
+        "apyBase": 0.005332144067102825,
+        "underlyingTokens": [
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+            "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x6002d7714e8038f2058e8162b0b86c0b19c31908",
+        "chain": "Celo",
+        "project": "visor",
+        "symbol": "USDC-cUSD",
+        "tvlUsd": 3.5933694692289424,
+        "apyBase": 0.024640816796346443,
+        "underlyingTokens": [
+            "0x37f750b7cc259a2f741af45294f6a16572cf5cad",
+            "0x765de816845861e75a25fca122bb6898b8b1282a"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0xf21df991caafebc242c7e5be17892d3b0453bc0f",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "WETH-rETH",
+        "tvlUsd": 2.010676721905272,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x7e3034e504fb7eaf638e22085911f82b60583bb2",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "USDC-USDT",
+        "tvlUsd": 1.9989520855139389,
+        "apyBase": 0.01580344627424861,
+        "underlyingTokens": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x93acb12ae1effb3426220c20c6d408eeaae59d72",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "DAI-USDT",
+        "tvlUsd": 1.9989503859422209,
+        "apyBase": 0.010289695806711276,
+        "underlyingTokens": [
+            "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+            "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xf56abca39c27d5c74f94c901b8c137fdf53b3e80",
+        "chain": "Ethereum",
+        "project": "visor",
+        "symbol": "agEUR-USDC",
+        "tvlUsd": 1.6653370932065463,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x86b81ba336e97a4fbdbcc81f22a2363d5ee03cab",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "WETH-GMX",
+        "tvlUsd": 1.6602304887525912,
+        "apyBase": 0,
+        "underlyingTokens": [
+            "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x91d6569946a11ca0d5564f31a594210bf06c1f0a",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-USDT",
+        "tvlUsd": 1.4230139935905115,
+        "apyBase": 0.016849363243642463,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x5eeca990e9b7489665f4b57d27d92c78bc2afbf2",
+        "chain": "Celo",
+        "project": "visor",
+        "symbol": "CELO-cUSD",
+        "tvlUsd": 1.3406579291398264,
+        "apyBase": 0.18444598956779026,
+        "underlyingTokens": [
+            "0x471ece3750da237f93b8e339c536989b8978a438",
+            "0x765de816845861e75a25fca122bb6898b8b1282a"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0xfb3a24c0f289e695ceb87b32fc18a2b8bd896167",
+        "chain": "Celo",
+        "project": "visor",
+        "symbol": "cMCO2-CELO",
+        "tvlUsd": 0.383840550226617,
+        "apyBase": 0.019135300923305277,
+        "underlyingTokens": [
+            "0x32a9fe697a32135bfd313a6ac28792dae4d9979d",
+            "0x471ece3750da237f93b8e339c536989b8978a438"
+        ],
+        "poolMeta": "0.3 univ3 pool"
+    },
+    {
+        "pool": "0x1e2d8f84605d32a2cbf302e30bfd2387badf35dd",
+        "chain": "Celo",
+        "project": "visor",
+        "symbol": "cUSD-cEUR",
+        "tvlUsd": 0.36985977437298073,
+        "apyBase": 0.012689968273089068,
+        "underlyingTokens": [
+            "0x765de816845861e75a25fca122bb6898b8b1282a",
+            "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xc1ce30066d90b5f57cbc5a71f13e90005f565db7",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-miMATIC",
+        "tvlUsd": 0.2010626675098647,
+        "apyBase": 0.04640160992538135,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0xa3fa99a148fa48d14ed51d610c367c61876997f1"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0xc8562dd252cededb9683bd3b5cbaa2a10e2775c3",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-USDT",
+        "tvlUsd": 0.2000503785624728,
+        "apyBase": 0.02300282226932747,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    },
+    {
+        "pool": "0x987135c52fd3613c35576074e6df047f70151630",
+        "chain": "Polygon",
+        "project": "visor",
+        "symbol": "USDC-DAI",
+        "tvlUsd": 0.20002766680047124,
+        "apyBase": 0.01391041321616022,
+        "underlyingTokens": [
+            "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+            "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
+        ],
+        "poolMeta": "0.01 univ3 pool"
+    },
+    {
+        "pool": "0x4b64f0bf6b1bffc23cca3c8dcd08dde4627aba9b",
+        "chain": "Arbitrum",
+        "project": "visor",
+        "symbol": "agEUR-USDC",
+        "tvlUsd": 0.19739414622741483,
+        "apyBase": 0.0026536884189623236,
+        "underlyingTokens": [
+            "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+            "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "poolMeta": "0.05 univ3 pool"
+    }
+]
